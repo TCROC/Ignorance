@@ -385,3 +385,5 @@ Assets/Mirror/Tests
 Logs
 *.bak
 *.bak.meta
+
+.DS_STORE
